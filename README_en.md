@@ -11,7 +11,7 @@
 
 ## Setup
 
-**NOTE:** For this application to work properly, you need a functioning **API**. You can access an example one [in this repository]().
+**NOTE:** For this application to work properly, you need a functioning **API**. You can access an example one [in this repository](https://github.com/HeinzDev/Spring-CRUD-API).
 
 ```Ensure your application is running on port 8080.```
 

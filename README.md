@@ -13,7 +13,7 @@ O **User Manager** é uma aplicação front-end simples feita em Angular para li
 
 ## Configurações
 
-**ATENÇÃO** para o total funcionamento dessa aplicação é necessário uma **API** em funcionamento, você pode acessar uma de exemplo [nesse repositório]().
+**ATENÇÃO** para o total funcionamento dessa aplicação é necessário uma **API** em funcionamento, você pode acessar uma de exemplo [nesse repositório](https://github.com/HeinzDev/Spring-CRUD-API).
 
 ```Certifique-se de que sua aplicação está em execução na porta 8080.```
 
