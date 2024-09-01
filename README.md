@@ -1,27 +1,44 @@
-# ApiFront
+**Português (Brasil)** | [English version](README_en.md)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
+# User Manager
 
-## Development server
+O **User Manager** é uma aplicação front-end simples feita em Angular para listagem, criação, edição, remoção de usuários de uma API de banco de dados.
+<p align="center"><img src="https://i.imgur.com/Rl9rozN.png"></p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Resumo
+- [Configurações](#configurações)
+- [Executando a Aplicação](#executando-a-aplicação)
+- [Contribuindo](#contribuindo)
+- [Criador](#criador)
 
-## Code scaffolding
+## Configurações
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+**ATENÇÃO** para o total funcionamento dessa aplicação é necessário uma **API** em funcionamento, você pode acessar uma de exemplo [nesse repositório]().
 
-## Build
+```Certifique-se de que sua aplicação está em execução na porta 8080.```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Executando a Aplicação
 
-## Running unit tests
+1. Execute no terminal:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   ```bash
+   $ ng s
+   ```
 
-## Running end-to-end tests
+## Contribuindo
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Se você deseja contribuir para o projeto, siga estes passos:
 
-## Further help
+1. Faça um fork do repositório.
+2. Crie um novo branch para sua funcionalidade: `git checkout -b nome-da-funcionalidade`.
+3. Faça commit das suas alterações: `git commit -m 'Adicione alguma funcionalidade'`.
+4. Faça push para o branch: `git push origin nome-da-funcionalidade`.
+5. Envie uma solicitação pull.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Criador
+
+<div id="header" align="center">
+  <a href="https://github.com/HeinzDev/">
+    <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
+    <h3>HeinzDev</h3>
+  </a>
