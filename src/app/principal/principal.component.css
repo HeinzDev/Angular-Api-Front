@@ -1,0 +1,42 @@
+img {
+    width: 250px;
+    margin: 30px;
+}
+
+h1,h2,h3 {
+    color: white;
+    text-align: center;
+}
+
+form {
+    width: 500px;
+    padding: 30px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+input[type="button"] {
+    margin-right: 10px;
+}
+
+.table-container {
+    padding:30px 120px;
+}
+
+#mainTable {
+    background-color: #202030 !important;
+    color: white !important;
+    border-radius: 10px !important;
+}
+
+#mainTable th,
+#mainTable td {
+    background-color: #202030;
+    color: white !important;
+    border-radius: 10px !important;
+    padding:15px !important;
+}

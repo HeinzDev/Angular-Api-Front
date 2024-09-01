@@ -1,0 +1,9 @@
+.main {
+    background-color: #161925;
+}
+
+:host {
+    display: block;
+    height: 100%;
+    background-color: #161925;
+  }
